@@ -24,7 +24,8 @@ The following **stretch** features are implemented:
 
 The following **additional** features are implemented:
 
-* [X] List anything else that you can get done to improve the app functionality!*
+* [X] List anything else that you can get done to improve the app functionality!
+
 I improved the UI by making the titles bold and italic. I changed the font and coloring of all the text as well as the color of the backgrounds and added proper padding between the rows and images since they were too close together. 
 
 Also, I noticed that there were no back buttons to switch between activities. I created working back buttons for each activity. Another feature I added was to automatically play the movie trailers when the custom play button overlay on the movie poster is clicked. This makes the UI a smoother experience for the user as they do not need to do multiple clicks. 
